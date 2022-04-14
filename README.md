@@ -21,11 +21,11 @@
      
           Jalanin Tools nya :
 
-   $ cd vikov3
+   $ cd CR4ck
 
    $ git pull
 
-   $ python vikov3.py
+   $ python CR4ck.py
 
 
           WARNING
