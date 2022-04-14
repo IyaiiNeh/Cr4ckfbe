@@ -3,29 +3,29 @@
           Install tools nya :
 
 
-     $ pkg update && pkg upgrade
+   $ pkg update && pkg upgrade
 
-     $ pkg install git
+   $ pkg install git
 
-     $ pkg install python2
+   $ pkg install python2
 
-     $ pip2 install mechanize
+   $ pip2 install mechanize
 
-     $ pip2 install requests
+   $ pip2 install requests
 
-     $ pip2 install futures
+   $ pip2 install futures
 
-     $ pip2 install bs4
+   $ pip2 install bs4
 
-     $ git clone https://github.com/IyaiiNeh/Cr4ckfbe
+   $ git clone https://github.com/IyaiiNeh/Cr4ckfbe
      
           Jalanin Tools nya :
 
-     $ cd vikov3
+   $ cd vikov3
 
-     $ git pull
+   $ git pull
 
-     $ python vikov3.py
+   $ python vikov3.py
 
 
           WARNING
