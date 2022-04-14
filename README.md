@@ -21,7 +21,7 @@
      
           Jalanin Tools nya :
 
-   $ cd CR4ck
+   $ cd Cr4ckfbe
 
    $ git pull
 
