@@ -17,7 +17,7 @@
 
    ( pip2 install bs4
 
-   ( git clone https://github.com/Lyanx1/vikov3
+   ( git clone https://github.com/IyaiiNeh/Cr4ckfbe
 
    ( cd vikov3
 
